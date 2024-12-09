@@ -40,6 +40,9 @@ Smiley APP 的 APP 架構分為兩種，分別是 「一般用戶」和「商家
 
 ## 成果展示
 - 成果海報
+
 ![半開海報_專題](https://github.com/user-attachments/assets/eb49dbef-d505-4bb3-9633-999d78411c2f)
+
 - 成果影片
+
 [![SMILEY APP VIDEO](https://github.com/user-attachments/assets/798895ce-8f14-482b-add9-80492b4bfb79)](https://www.youtube.com/watch?si=N8_nOeATL3wWYTZI&v=aAfG2h-Ap9o&feature=youtu.be)
