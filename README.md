@@ -40,7 +40,7 @@ Smiley APP 的 APP 架構分為兩種，分別是 「一般用戶」和「商家
 - **聊天室頁面**：商家與用戶的溝通管道。
 
 ## 研究過程
-<img width="1604" height="740" alt="image" src="https://github.com/user-attachments/assets/00e3bc5a-c070-4f33-8ade-c8aebb03b900" />
+![研究過程_專題](https://github.com/user-attachments/assets/00e3bc5a-c070-4f33-8ade-c8aebb03b900)
 - **文字情緒分析區塊**：第一階段，先蒐集文字情緒分析的訓練資料。第二階段，將蒐集到的資料集轉成模型要求的格式。第三階段，進行 BERT 模型訓練。第四階段，分析 BERT 模型的情緒分析準確度與評估效能。
 - **聊天機器人區塊**：第一階段，尋找合適的聊天機器人模型。第二階段，連接 Ollama 聊天機器人。第三階段，幫 Ollama 進行角色定位與生成對話。第四階段，評估 Ollama 的回覆是否恰當。
 - **商業模式設計區塊**：第一階段，分析商家的需求、探討可以如何透過APP的設計為其解決痛點。第二階段，設計商家系統，設計頁面使其兼具療癒以及功能性。第三階段，與商家討論頁面是否符合其需求並持續精進。第四階段，評估系統是否完整且可解決商家痛點。
@@ -57,4 +57,5 @@ Smiley APP 的 APP 架構分為兩種，分別是 「一般用戶」和「商家
 - 成果影片
 
 [![SMILEY APP VIDEO](https://github.com/user-attachments/assets/798895ce-8f14-482b-add9-80492b4bfb79)](https://www.youtube.com/watch?si=N8_nOeATL3wWYTZI&v=aAfG2h-Ap9o&feature=youtu.be)
+
 
